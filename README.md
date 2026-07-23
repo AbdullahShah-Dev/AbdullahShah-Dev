@@ -1,84 +1,82 @@
 <div align="center">
 
-# 🤖 AI Engineer • React Native Developer • Full-Stack JavaScript
+# 🤖 Abdullah Shah
 
-Building **AI-powered mobile applications** with **OpenAI APIs, LLMs, React Native, TypeScript, Node.js & Firebase**.
+### AI Engineer • Senior React Native Developer • Full-Stack JavaScript
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+Building AI-powered mobile applications using **OpenAI, LLMs, React Native, TypeScript, Node.js & Firebase**.
+
+![](https://komarev.com/ghpvc/?username=AbdullahShah-Dev&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 💼 5+ years building production-ready Mobile & Web Applications
-- 🤖 AI Engineer focused on LLM-powered applications
+- 💼 5+ years of experience building production mobile applications
+- 🤖 AI Engineer specializing in OpenAI & LLM integrations
 - 📱 Senior React Native Developer
-- 🧠 Learning Agentic AI, RAG, MCP & Prompt Engineering
-- 🚀 Passionate about AI Automation & Intelligent Systems
+- ⚡ Experienced with TypeScript, Node.js & Firebase
+- 🧠 Currently exploring Agentic AI, RAG, MCP & AI Automation
 - 🌍 Open to Remote AI Engineer & React Native opportunities
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Mobile
+**Mobile**
 
 `React Native` `Expo` `TypeScript` `JavaScript`
 
-### Frontend
+**Frontend**
 
-`React.js` `Next.js` `HTML` `CSS`
+`React.js` `Next.js`
 
-### Backend
+**Backend**
 
 `Node.js` `Express.js`
 
-### Database
+**Database**
 
-`MongoDB` `Firebase` `Firestore`
+`MongoDB` `Firebase`
 
-### AI
+**AI**
 
-`OpenAI API` `LLMs` `Prompt Engineering` `Function Calling` `RAG` `MCP`
+`OpenAI API`
+`LLMs`
+`Prompt Engineering`
+`Function Calling`
+`RAG`
+`MCP`
 
-### Tools
+**Tools**
 
-`Git` `GitHub` `Docker` `Postman` `VS Code`
-
----
-
-# 🤖 AI Skills
-
-- ✅ OpenAI API Integration
-- ✅ LLM Applications
-- ✅ AI Chatbots
-- ✅ Prompt Engineering
-- ✅ Function Calling
-- ✅ Retrieval-Augmented Generation (RAG)
-- ✅ Model Context Protocol (MCP)
-- ✅ AI-powered Mobile Applications
+`Git`
+`GitHub`
+`Docker`
+`Postman`
+`VS Code`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🩺 AI Health Assistant
+### 🩺 AI Health Assistant
 
-AI-powered React Native application that analyzes symptoms, provides health insights and predictions using OpenAI LLMs.
+AI-powered React Native application that analyzes symptoms and provides health insights using OpenAI LLMs.
 
 ### 💬 AI Chat Assistant
 
-Modern conversational AI assistant powered by OpenAI APIs with intelligent responses.
+Intelligent conversational assistant built with OpenAI APIs and Function Calling.
 
-### 📱 React Native Applications
+### 📱 Cross-Platform Mobile Apps
 
-Cross-platform mobile applications with clean architecture and modern UI/UX.
+Production-ready React Native applications with scalable architecture and modern UI.
 
 ---
 
-# 📫 Contact
+## 📫 Contact
 
 📧 **Email:**  
 **abddullahshah@gmail.com**
@@ -86,12 +84,28 @@ Cross-platform mobile applications with clean architecture and modern UI/UX.
 💼 **Upwork:**  
 https://www.upwork.com/freelancers/~01124e8bcb0ba30114
 
+🔗 **GitHub:**  
+https://github.com/AbdullahShah-Dev
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahShah-Dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahShah-Dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbdullahShah-Dev&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 <div align="center">
 
-## 🚀 Building Intelligent AI Solutions with React Native & OpenAI
+## 🚀 Building Intelligent AI Solutions
 
-*"Code. Learn. Build. Repeat."* 🚀
+**React Native • OpenAI • LLMs • AI Automation**
 
 </div>
