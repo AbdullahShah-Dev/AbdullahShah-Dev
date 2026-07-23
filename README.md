@@ -72,7 +72,3 @@ Cross-platform mobile applications with modern UI/UX.
 ### 🚀 Building the Future with AI
 
 </div>
-"""
-out="/mnt/data/README.md"
-Path(out).write_text(md,encoding="utf-8")
-print(out)
