@@ -1,6 +1,3 @@
-from pathlib import Path
-import pypandoc
-
 md = r"""# Hi 👋, I'm Abdullah Shah
 
 <div align="center">
