@@ -1,5 +1,3 @@
-md = r"""# Hi 👋, I'm Abdullah Shah
-
 <div align="center">
 
 # 🤖 AI Engineer • React Native Developer • Full-Stack JavaScript
