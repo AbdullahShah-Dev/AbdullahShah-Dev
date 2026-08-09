@@ -1,8 +1,8 @@
 <!-- <div align="center">
 
-# 🤖 AI Engineer • React Native Developer • Full-Stack JavaScript
+# 🤖 AI Engineer • Mern Stack • Full-Stack JavaScript
 
-Building **AI-powered mobile applications** with **OpenAI APIs, LLMs, React Native, TypeScript, Node.js & Firebase**.
+Building **AI-powered mobile applications** with **OpenAI APIs, LLMs, React / Next, TypeScript, Node.js & Firebase**.
 
 ![](https://komarev.com/ghpvc/?username=AbdullahShah-Dev&label=Profile%20Views&color=0e75b6&style=flat)
 
